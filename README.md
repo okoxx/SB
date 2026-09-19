@@ -26,7 +26,7 @@
 
 ```bash
 # 方式 A：直接拉取本仓库文件
-curl -O https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/roles/全链渗透.yaml
+curl -O https://raw.githubusercontent.com/okoxx/SB/main/roles/全链渗透.yaml
 
 # 方式 B：复制下方「完整 YAML」手动保存为 roles/全链渗透.yaml
 ```
